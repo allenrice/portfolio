@@ -1,7 +1,9 @@
 ### Online Profiles
-[Allen Rice on StackOverflow](https://stackoverflow.com/users/49885/allen-rice)
+[StackOverflow](https://stackoverflow.com/users/49885/allen-rice)
 
-[Allen Rice on LinkedIn](https://www.linkedin.com/in/allen-rice-3986a149/)
+[LinkedIn](https://www.linkedin.com/in/allen-rice-3986a149/)
+
+[CodePen](https://codepen.io/allenrice/)
 
 
 ### Educational / fun experiments
